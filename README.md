@@ -1,6 +1,7 @@
 # Esteban García
 
 Ingeniero Industrial especializado en ciencia de datos e inteligencia artificial, con alta capacidad analítica y de optimización de procesos
+
 [Conoce mi LinkedIn](https://www.linkedin.com/in/estebanmgr/)
 
 # Proyecto 1: Predicción del precio de venta de una vivienda.
