@@ -1,4 +1,4 @@
-# Esteban García, Proyectos
+# Esteban García
 
 # Proyecto 1: Predicción del precio de venta de una vivienda.
 *	Predecir el valor medio de una vivienda en el area de California tomando en cuenta varios datos significativos de la zona (Ingreso medio de la población cercana, número de habitaciones, número de baños, edad de la vivienda, etc.).
