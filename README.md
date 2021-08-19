@@ -1,8 +1,6 @@
-# Esteban García
+# [Esteban García](https://www.linkedin.com/in/estebanmgr/)
 
 Ingeniero Industrial especializado en ciencia de datos e inteligencia artificial, con alta capacidad analítica y de optimización de procesos
-
-[Conoce mi LinkedIn](https://www.linkedin.com/in/estebanmgr/)
 
 # [Proyecto 1: Predicción del precio de venta de una vivienda.](https://github.com/estebanmgr/California_Housing_Price)
 *	Predecir el valor medio de una vivienda en el area de California tomando en cuenta varios datos significativos de la zona (Ingreso medio de la población cercana, número de habitaciones, número de baños, edad de la vivienda, etc.).
