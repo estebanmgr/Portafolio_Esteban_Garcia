@@ -9,9 +9,9 @@ Ingeniero Industrial especializado en ciencia de datos e inteligencia artificial
 * Evaluar el modelo con el mejor porcentaje de eficacia para luego probarlo con un conjunto de evaluación ya depurado.
 
 # [Proyecto 2: Predicción de la ocurrencia de un incendio forestal.](https://github.com/estebanmgr/Incendios_Forestales)
-Para este utilicé la base de datos de incendios forestales en la zona de Algeria con el fin de preecir la posibilidad de ocurrencia un incendio y así poder ayudar a los recursos destinados para combatirlos y poder disminuir su devastadoras consecuencias, para esto:
-* Limpié y analicé los datos para asegurarme que existiera una homogeneidad en los mismos y que no tuviesemos valores faltantes que tratar así poder entrenar correctamente los distintos modelos de clasificación.
-* Utiliar y entrenar distintos modelos de clasificación (Regresión logistica, Nearest neighbors, Suport vector machine (Linear, rbf, sigmoide y poly), Naive bayes, Arbol de decisiones y Random forest) para luego poder contrastar los resultados con una parte de los datos que no han sido utilizarlos y así medir su precisión.
+Para este proyecto utilicé la base de datos de incendios forestales en la zona de Algeria con el fin de predecir la posibilidad de ocurrencia un incendio y así poder ayudar a los recursos destinados para combatirlos y poder disminuir sus devastadoras consecuencias, para esto:
+* Limpié y analicé los datos para asegurarme que existiera una homogeneidad en los mismos y que no tuviésemos valores faltantes que tratar así poder entrenar correctamente los distintos modelos de clasificación.
+* Utilicé y entrené distintos modelos de clasificación (Regresión logística, Nearest neighbors, Suport vector machine (Linear, rbf, sigmoide y poly), Naive bayes, Árbol de decisiones y Random forest) para luego poder contrastar los resultados con una parte de los datos que no han sido utilizarlos y así medir su precisión.
 
 # [Proyecto 3: Detección de emociones faciales en tiempo real.](https://github.com/estebanmgr/Deteccion_de_emociones_faciales)
 En este proyecto creé y entrené una red neuronal para la detección de emociones faciales, para esto utilizé la transferencia de conocimientos de una red neuronal pre entrenada y la modifiqué para que se ajustara al caso de estudio. Esto puede ser de utilidad para las personas que deseen subir una foto y detectar emociones de las personas que aparecen en ella, también puede servir como base para utilizarlo en algun filtro de alguna red social.
